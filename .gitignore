@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Custom project ignores
+CatGame/
+*.7z
+*.zip
+*.rar
+*.slnx
+.vscode/
+.plastic/
+.DS_Store
+Thumbs.db
