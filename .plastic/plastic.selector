@@ -1,4 +1,0 @@
-repository "CatGame/CatGame@10170676811484@cloud"
-  path "/"
-    br "/main"
-    co "/main"
